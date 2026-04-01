@@ -1,7 +1,9 @@
+% Write a MATLAB program to draw a line passing through a point (x1,y1) and
+% its slope m is given.
 clc
 clear all
-disp('drawing a line using a point and a slope')
-p1=input('enter the first point');
+disp('drawing a line using a point and a slope=\n')
+p1=input('enter the first point=\n');
 x1=p1(1);
 y1=p1(2);
 theta=input('enter the slope');

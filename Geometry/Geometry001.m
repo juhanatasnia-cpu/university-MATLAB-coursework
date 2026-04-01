@@ -1,3 +1,4 @@
+% Write a MATLAB program to draw a circle when radius and centre is given
 clc
 clear all
 disp('by this program we want to draw a circle')
